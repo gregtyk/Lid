@@ -1,0 +1,86 @@
+body {
+    font-family: sans-serif;
+}
+.titlos{
+     color:blue;
+    text-align:center;
+    background-color:yellow;
+    border-bottom:5px double blue;
+    
+}
+h2{
+   background-color:#45ad45;
+   color:red;
+   text-align:center ;
+   width:200px ;
+   margin-left:225px ;
+   border-radius:20px;
+
+}
+table{
+    background-color:red;
+
+
+
+}
+p{
+   background-color:royalblue;
+
+
+
+}
+.magazi{
+    color:red;
+   background-color:lightblue;
+}
+h3{
+   color:red;
+    background-color:lightslategray;
+    text-align:center; 
+
+
+
+}
+div{
+    border:4px solid red;
+    padding:25px;
+
+
+}
+h1{
+     color:blue;
+    text-align:center;
+    background-color:yellow;
+    border-bottom:5px double blue;
+    
+
+
+
+}
+a{
+   color:blue;
+   border-bottom:5px double blue ;
+
+}
+.psigia{
+    border:8px dotted lightblue;
+    padding:25px;
+    
+
+
+}
+.prosopiko{
+    border:8px dotted lightpink;
+    padding:25px;
+
+}
+.cosmos{
+    border:8px dotted lightgreen;
+    padding:25px;
+
+}
+span{
+     color:red;
+
+
+}
