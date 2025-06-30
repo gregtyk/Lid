@@ -62,6 +62,11 @@ a{
    border-bottom:5px double blue ;
 
 }
+a:visited{
+    color:grey;
+
+    
+}
 .psigia{
     border:8px dotted lightblue;
     padding:25px;
